@@ -5,6 +5,9 @@
 
 @import "hero.css";
 @import "hello.css";
+@import "hand.css";
+@import "skills.css";
+
 
 html {
   box-sizing: border-box;
