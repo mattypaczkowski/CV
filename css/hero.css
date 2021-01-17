@@ -47,11 +47,11 @@
         top: 0;
    }
     .hero__description::before {
-        background: url('#');
+        background: url('../img/hero-left.svg');
         right: 100%;
    }
     .hero__description::after {
-        background: url('#');
+        background: url('../img/hero-right.svg');
         left: 100%;
    }
 }
@@ -89,7 +89,7 @@
         display: block;
         width: 17.42px;
         height: 22.66px;
-        background: url("#");
+        background: url("../img/speech.svg");
    }
 }
 .hero__image {
@@ -119,7 +119,7 @@
 }
 .hero__link {
     font-weight: bold;
-    color: #4da8ff;
+    color: #dbeaf7;
     text-decoration: none;
 }
 .hero__paragraph {

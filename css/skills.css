@@ -47,10 +47,10 @@
     content: "";
     width: 12px;
     height: 9px;
-    background: url(#);
+    background: url("../img/small-tick-green.svg");
 }
 .skills-list--blue .skills-list__item:before {
-    background: url(#);
+    background: url("../img/small-tick-blue.svg");
 }
 .skills-list--dot .skills-list__item:before {
     width: 2px;
