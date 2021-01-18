@@ -117,7 +117,7 @@
     max-width: 1184px;
     margin: 0 auto;
 }
-@media (min-width: 178px) {
+@media (min-width: 768px) {
     .projects-grid {
         grid-template-columns: 1fr 1fr;
    }
